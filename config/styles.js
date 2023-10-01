@@ -1,6 +1,5 @@
 export default {
-    colors:{
-        accentColor: "#FFAF19",
-
-    }
-}
+	colors: {
+		accentColor: '#9261b8',
+	},
+};
